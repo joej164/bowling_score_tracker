@@ -43,7 +43,7 @@ def calculate_final_score(round_result):
     return final_score
                 
             
-
+#Some Comments added just cause.
 score = 0
 round_result_dict = play_bowling_game()
 final_score =  calculate_final_score(round_result_dict)
